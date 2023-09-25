@@ -1,0 +1,12 @@
+C:\Users\stavy\source\repos\B23 Ex01 Stav 318226461 Yilit 317975027\Ex01_05\bin\Debug\Ex01_05.exe.config
+C:\Users\stavy\source\repos\B23 Ex01 Stav 318226461 Yilit 317975027\Ex01_05\bin\Debug\Ex01_05.exe
+C:\Users\stavy\source\repos\B23 Ex01 Stav 318226461 Yilit 317975027\Ex01_05\bin\Debug\Ex01_05.pdb
+C:\Users\stavy\source\repos\B23 Ex01 Stav 318226461 Yilit 317975027\Ex01_05\bin\Debug\Ex01_04.exe
+C:\Users\stavy\source\repos\B23 Ex01 Stav 318226461 Yilit 317975027\Ex01_05\bin\Debug\Ex01_04.pdb
+C:\Users\stavy\source\repos\B23 Ex01 Stav 318226461 Yilit 317975027\Ex01_05\bin\Debug\Ex01_04.exe.config
+C:\Users\stavy\source\repos\B23 Ex01 Stav 318226461 Yilit 317975027\Ex01_05\obj\Debug\Ex01_05.csproj.AssemblyReference.cache
+C:\Users\stavy\source\repos\B23 Ex01 Stav 318226461 Yilit 317975027\Ex01_05\obj\Debug\Ex01_05.csproj.SuggestedBindingRedirects.cache
+C:\Users\stavy\source\repos\B23 Ex01 Stav 318226461 Yilit 317975027\Ex01_05\obj\Debug\Ex01_05.csproj.CoreCompileInputs.cache
+C:\Users\stavy\source\repos\B23 Ex01 Stav 318226461 Yilit 317975027\Ex01_05\obj\Debug\Ex01_05.csproj.CopyComplete
+C:\Users\stavy\source\repos\B23 Ex01 Stav 318226461 Yilit 317975027\Ex01_05\obj\Debug\Ex01_05.exe
+C:\Users\stavy\source\repos\B23 Ex01 Stav 318226461 Yilit 317975027\Ex01_05\obj\Debug\Ex01_05.pdb

@@ -1,0 +1,8 @@
+C:\Users\stavy\source\repos\B23 Ex01 Stav 318226461 Yilit 317975027\Ex01_02\bin\Debug\Ex01_02.exe.config
+C:\Users\stavy\source\repos\B23 Ex01 Stav 318226461 Yilit 317975027\Ex01_02\bin\Debug\Ex01_02.exe
+C:\Users\stavy\source\repos\B23 Ex01 Stav 318226461 Yilit 317975027\Ex01_02\bin\Debug\Ex01_02.pdb
+C:\Users\stavy\source\repos\B23 Ex01 Stav 318226461 Yilit 317975027\Ex01_02\obj\Debug\Ex01_02.csproj.AssemblyReference.cache
+C:\Users\stavy\source\repos\B23 Ex01 Stav 318226461 Yilit 317975027\Ex01_02\obj\Debug\Ex01_02.csproj.SuggestedBindingRedirects.cache
+C:\Users\stavy\source\repos\B23 Ex01 Stav 318226461 Yilit 317975027\Ex01_02\obj\Debug\Ex01_02.csproj.CoreCompileInputs.cache
+C:\Users\stavy\source\repos\B23 Ex01 Stav 318226461 Yilit 317975027\Ex01_02\obj\Debug\Ex01_02.exe
+C:\Users\stavy\source\repos\B23 Ex01 Stav 318226461 Yilit 317975027\Ex01_02\obj\Debug\Ex01_02.pdb

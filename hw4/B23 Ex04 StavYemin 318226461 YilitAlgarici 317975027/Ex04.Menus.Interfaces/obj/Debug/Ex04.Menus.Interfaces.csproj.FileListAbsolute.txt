@@ -1,0 +1,7 @@
+C:\Users\stavy\source\repos\hw4\B23 Ex04 StavYemin 318226461 YilitAlgarici 317975027\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.dll.config
+C:\Users\stavy\source\repos\hw4\B23 Ex04 StavYemin 318226461 YilitAlgarici 317975027\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\stavy\source\repos\hw4\B23 Ex04 StavYemin 318226461 YilitAlgarici 317975027\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.pdb
+C:\Users\stavy\source\repos\hw4\B23 Ex04 StavYemin 318226461 YilitAlgarici 317975027\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.csproj.AssemblyReference.cache
+C:\Users\stavy\source\repos\hw4\B23 Ex04 StavYemin 318226461 YilitAlgarici 317975027\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\stavy\source\repos\hw4\B23 Ex04 StavYemin 318226461 YilitAlgarici 317975027\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\stavy\source\repos\hw4\B23 Ex04 StavYemin 318226461 YilitAlgarici 317975027\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.pdb

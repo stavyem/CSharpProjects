@@ -1,0 +1,12 @@
+C:\Users\stavy\source\repos\hw5\B23 Ex05 StavYemin 318226461 YilitAlgarici 317975027\XMixDrix\bin\Debug\XMixDrix.exe.config
+C:\Users\stavy\source\repos\hw5\B23 Ex05 StavYemin 318226461 YilitAlgarici 317975027\XMixDrix\bin\Debug\XMixDrix.exe
+C:\Users\stavy\source\repos\hw5\B23 Ex05 StavYemin 318226461 YilitAlgarici 317975027\XMixDrix\bin\Debug\XMixDrix.pdb
+C:\Users\stavy\source\repos\hw5\B23 Ex05 StavYemin 318226461 YilitAlgarici 317975027\XMixDrix\obj\Debug\ReversedXMixDrix.csproj.AssemblyReference.cache
+C:\Users\stavy\source\repos\hw5\B23 Ex05 StavYemin 318226461 YilitAlgarici 317975027\XMixDrix\obj\Debug\ReversedXMixDrix.csproj.SuggestedBindingRedirects.cache
+C:\Users\stavy\source\repos\hw5\B23 Ex05 StavYemin 318226461 YilitAlgarici 317975027\XMixDrix\obj\Debug\ReversedXMixDrix.GameBoardForm.resources
+C:\Users\stavy\source\repos\hw5\B23 Ex05 StavYemin 318226461 YilitAlgarici 317975027\XMixDrix\obj\Debug\ReversedXMixDrix.GameSettingsForm.resources
+C:\Users\stavy\source\repos\hw5\B23 Ex05 StavYemin 318226461 YilitAlgarici 317975027\XMixDrix\obj\Debug\XMixDrix.Properties.Resources.resources
+C:\Users\stavy\source\repos\hw5\B23 Ex05 StavYemin 318226461 YilitAlgarici 317975027\XMixDrix\obj\Debug\ReversedXMixDrix.csproj.GenerateResource.cache
+C:\Users\stavy\source\repos\hw5\B23 Ex05 StavYemin 318226461 YilitAlgarici 317975027\XMixDrix\obj\Debug\ReversedXMixDrix.csproj.CoreCompileInputs.cache
+C:\Users\stavy\source\repos\hw5\B23 Ex05 StavYemin 318226461 YilitAlgarici 317975027\XMixDrix\obj\Debug\XMixDrix.exe
+C:\Users\stavy\source\repos\hw5\B23 Ex05 StavYemin 318226461 YilitAlgarici 317975027\XMixDrix\obj\Debug\XMixDrix.pdb

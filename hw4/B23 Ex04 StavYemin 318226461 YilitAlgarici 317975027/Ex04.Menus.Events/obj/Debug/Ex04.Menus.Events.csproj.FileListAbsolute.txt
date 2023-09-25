@@ -1,0 +1,7 @@
+C:\Users\stavy\source\repos\hw4\B23 Ex04 StavYemin 318226461 YilitAlgarici 317975027\Ex04.Menus.Events\bin\Debug\Ex04.Menus.Events.dll.config
+C:\Users\stavy\source\repos\hw4\B23 Ex04 StavYemin 318226461 YilitAlgarici 317975027\Ex04.Menus.Events\bin\Debug\Ex04.Menus.Events.dll
+C:\Users\stavy\source\repos\hw4\B23 Ex04 StavYemin 318226461 YilitAlgarici 317975027\Ex04.Menus.Events\bin\Debug\Ex04.Menus.Events.pdb
+C:\Users\stavy\source\repos\hw4\B23 Ex04 StavYemin 318226461 YilitAlgarici 317975027\Ex04.Menus.Events\obj\Debug\Ex04.Menus.Events.csproj.AssemblyReference.cache
+C:\Users\stavy\source\repos\hw4\B23 Ex04 StavYemin 318226461 YilitAlgarici 317975027\Ex04.Menus.Events\obj\Debug\Ex04.Menus.Events.csproj.CoreCompileInputs.cache
+C:\Users\stavy\source\repos\hw4\B23 Ex04 StavYemin 318226461 YilitAlgarici 317975027\Ex04.Menus.Events\obj\Debug\Ex04.Menus.Events.dll
+C:\Users\stavy\source\repos\hw4\B23 Ex04 StavYemin 318226461 YilitAlgarici 317975027\Ex04.Menus.Events\obj\Debug\Ex04.Menus.Events.pdb
